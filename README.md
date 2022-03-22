@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I really love shameless self promotion because it's really healthy!
-You should do it to, it'll do wonders to your Story! 🤪
-
 <!--
 **AviyaDavid/aviyadavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
